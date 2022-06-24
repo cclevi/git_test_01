@@ -11,6 +11,6 @@ public class demo1 {
         System.out.println("klee");
         System.out.println("ccc");
         System.out.println("sanyueqi");
-        System.out.println("jiuchan")
+        System.out.println("jiuchan");
     }
 }

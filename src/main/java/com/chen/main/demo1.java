@@ -9,5 +9,6 @@ public class demo1 {
         System.out.println("Ayaka");
         System.out.println("雷电将军");
         System.out.println("klee");
+        System.out.println("ccc");
     }
 }

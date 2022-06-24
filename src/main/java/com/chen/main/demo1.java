@@ -10,5 +10,6 @@ public class demo1 {
         System.out.println("雷电将军");
         System.out.println("klee");
         System.out.println("ccc");
+        System.out.println("sanyueqi");
     }
 }

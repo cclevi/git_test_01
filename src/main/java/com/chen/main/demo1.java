@@ -6,5 +6,8 @@ public class demo1 {
         System.out.println("fall in love");
         System.out.println("ffffsdfsdf");
         System.out.println("eula");
+        System.out.println("Ayaka");
+        System.out.println("雷电将军");
+        System.out.println("klee");
     }
 }
